@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  WeatherApplication
+
+  Created by Vibha Mangrulkar on 2024/02/18.
+  
+*/
+
+
+//Weather type
+"cloud" = "Clouds";
+"mist" = "Mist";
+"haze" = "Haze";
+"rain" = "Rain";
+"smoke" = "Smoke";
+"drizzle" = "Drizzle";
+"sunnyWeather" = "SUNNY";
+"cloudyWeather" = "CLOUDY";
+"RainyWeather" = "RAINY";
+"OK" = "Ok";
+
+//Alert Messages
+"favourite.message" = "Current weather details added in the favourite list";
+"unFavourite.message" = "Current weather removed from the favourite list";
+"list.empty.message" = "Favourite list is empty";
+"internet.unavailable.message" = "Internet connection not available";
+"offline.data.display.message" = "Internet connection not available.\nLast favourite offline data displayed";
+"location.access.notification" = "LocationAccessUpdated";
+"location.access.message" = "Allow location to display data";
+"invalid.data.message" = "Unable to do favourite, invalid data";
+"PleaseWait" = "Please wait...";
